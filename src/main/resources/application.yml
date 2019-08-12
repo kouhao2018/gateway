@@ -1,0 +1,6 @@
+server:
+  port: 8280
+
+spring:
+  application:
+    name: gateway # 对外暴露的服务名称
